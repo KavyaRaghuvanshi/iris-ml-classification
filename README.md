@@ -72,10 +72,6 @@ Iris-Flower-Classification/
 ├── iris_classification.py
 ├── requirements.txt
 ├── README.md
-│
-└── images/
-    ├── feature_importance.png
-    └── output.png
 ```
 
 ---
